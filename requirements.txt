@@ -1,0 +1,8 @@
+# Core runtime deps
+pydantic>=2.6.0
+typing_extensions>=4.8.0
+
+# Install your Agent SDK separately. Example placeholder:
+# agents-sdk==0.0.0  # replace with the actual package providing `agents`
+
+
