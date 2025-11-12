@@ -1,4 +1,4 @@
-# Project 7 — Ethical Support Assistant
+# Project 8 — Ethical Support Assistant
 #
 # Concepts
 # - Guardrails

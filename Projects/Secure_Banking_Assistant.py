@@ -1,4 +1,4 @@
-# 🏦 Project 9 — Secure Banking Assistant
+# 🏦 Project 10 — Secure Banking Assistant
 #
 # Concepts
 # - Input guardrails

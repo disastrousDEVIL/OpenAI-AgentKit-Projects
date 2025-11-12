@@ -24,10 +24,11 @@ If you share this repo on GitHub and LinkedIn, others can follow the same study 
 - 3) Task Planner — dynamic instructions, async context
 - 4) Cinema Chat — StopAtTools, custom tool handler
 - 5) Multi‑Persona Chat System — cloning, handoffs, hooks
-- 6) Guarded Knowledge Bot — guardrails over company context
-- 7) Ethical Support Assistant — role‑aware responses with guardrails
-- 8) Safe Tech Support Assistant — safety checks and sanitization
-- 9) Secure Banking Assistant — context verification + guardrails
+- 6) Academic Guardrail System — input guardrails and handoffs
+- 7) Guarded Knowledge Bot — guardrails over company context
+- 8) Ethical Support Assistant — role‑aware responses with guardrails
+- 9) Safe Tech Support Assistant — safety checks and sanitization
+- 10) Secure Banking Assistant — context verification + guardrails
 
 ### 🧭 Learning Path
 

@@ -1,4 +1,4 @@
-# ⚙️ Project 8 — Safe Tech Support Assistant
+# ⚙️ Project 9 — Safe Tech Support Assistant
 #
 # Concepts
 # - Guardrails, context, sanitization

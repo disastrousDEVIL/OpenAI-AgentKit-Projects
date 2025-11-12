@@ -1,4 +1,4 @@
-# 🧠 Project (Essential) — Academic Guardrail System
+# 🧠 Project 6 — Academic Guardrail System
 #
 # Concepts
 # - Input guardrails

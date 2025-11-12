@@ -1,4 +1,4 @@
-# Project 6 — Guarded Knowledge Bot
+# Project 7 — Guarded Knowledge Bot
 #
 # Concepts
 # - Guardrails
